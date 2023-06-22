@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "126105692211",
+    "project_id": "fir-realtime-3d7fd",
+    "storage_bucket": "fir-realtime-3d7fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126105692211:android:1ee4ee77fda6ae5d48db46",
+        "android_client_info": {
+          "package_name": "com.example.firebaserealtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126105692211-6i0aefrqpu6mmqkdo5m12a26d0e71okb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx-sI47OhzDSb3fpUBxhZxnfGTU2Vkik8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126105692211-6i0aefrqpu6mmqkdo5m12a26d0e71okb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
